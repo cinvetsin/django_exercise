@@ -1,0 +1,1 @@
+web: gunicorn FIRST_DJANGO.wsgi --log-file -
